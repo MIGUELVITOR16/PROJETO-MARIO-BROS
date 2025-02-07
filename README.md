@@ -12,5 +12,4 @@
 <br> 
 <h2>Print do Projeto :</h2>
 <br>
-<br>
 <img src="https://github.com/MIGUELVITOR16/PROJETO-MARIO-BROS/blob/master/img/projeto%20mario.png?raw=true" alt="Print-projeto"/>
